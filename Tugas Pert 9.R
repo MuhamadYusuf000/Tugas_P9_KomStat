@@ -7,3 +7,8 @@ max(mtcars$mpg)
 hist(mtcars$mpg,
      main = "Histogram of Miles per Gallon",
      col = "skyblue")
+
+# Try add in master
+boxplot(mtcars$mpg,
+        main = "Boxplot of Miles per Gallon",
+        col = "skyblue")
