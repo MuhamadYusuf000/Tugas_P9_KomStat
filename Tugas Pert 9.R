@@ -21,3 +21,4 @@ barplot(mtcars$mpg,
 # Coba tambah/edit lewat Github langsung
 median(mtcars$mpg)
 range(mtcars$mpg)
+min(mtcars$mpg)
