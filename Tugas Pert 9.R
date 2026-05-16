@@ -12,3 +12,8 @@ hist(mtcars$mpg,
 boxplot(mtcars$mpg,
         main = "Boxplot of Miles per Gallon",
         col = "skyblue")
+
+# Try add in branch-baru
+barplot(mtcars$mpg,
+        main = "Barplot of Miles per Gallon",
+        col = "skyblue")
