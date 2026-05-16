@@ -17,3 +17,7 @@ boxplot(mtcars$mpg,
 barplot(mtcars$mpg,
         main = "Barplot of Miles per Gallon",
         col = "skyblue")
+
+# Coba tambah/edit lewat Github langsung
+median(mtcars$mpg)
+range(mtcars$mpg)
